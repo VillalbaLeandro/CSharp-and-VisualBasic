@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\bin\Debug\net7.0\HelloWorldCs.exe
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\bin\Debug\net7.0\HelloWorldCs.deps.json
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\bin\Debug\net7.0\HelloWorldCs.runtimeconfig.json
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\bin\Debug\net7.0\HelloWorldCs.dll
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\bin\Debug\net7.0\HelloWorldCs.pdb
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.dll
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\refint\HelloWorldCs.dll
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.pdb
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\HelloWorldCs.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion II\repositorios\hello world\HelloWorld\HelloWorldCs\obj\Debug\net7.0\ref\HelloWorldCs.dll
